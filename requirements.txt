@@ -1,0 +1,6 @@
+quiet transformers==2.9.0
+quiet nltk==3.4.5
+word2number
+PyMuPDF
+spacy==2.1.0
+neuralcoref
